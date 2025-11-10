@@ -1,0 +1,12 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+data/*
+data
+output/*
+output
+alt_analysis/*
+alt_analysis
+usa_00001.dat.gz
+usa_00001.xml
