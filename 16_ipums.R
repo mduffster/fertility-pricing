@@ -9,7 +9,7 @@ library(modelsummary)
 cat("=== IPUMS USA CENSUS ANALYSIS ===\n\n")
 
 # Set API key
-set_ipums_api_key("59cba10d8a5da536fc06b59dbd228d382cac49ba90d8ed583fd1cda1")
+set_ipums_api_key("SET KEY HERE")
 
 # USA samples covering period of fertility decline
 samples <- c(
